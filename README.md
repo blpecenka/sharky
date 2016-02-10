@@ -2,7 +2,7 @@ Sharky Website 2015
 
 General Usage Notes
 --------------------------------
--Application was developed with support from Packt Publishing, Tech Knowledge in Motion 2015. Additional intellectual freedom 
+-Application was developed by Brittany Pecenka with support from Packt Publishing, Tech Knowledge in Motion 2015. Additional intellectual freedom 
 taken by Brittany Pecenka in design, layout, and concept. Origninal course content can be located at Udemy.com.
 
 -The Sharky application is intended as a demo site with two pages. NOTE-there are two working pages (Home page and Movies). As this is
